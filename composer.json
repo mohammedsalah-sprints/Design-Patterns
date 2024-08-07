@@ -1,0 +1,16 @@
+{
+    "name": "salah/design-patterns",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sala7",
+            "email": "mohammed.salah@sprints.ai"
+        }
+    ],
+    "require": {}
+}
